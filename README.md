@@ -1,4 +1,2 @@
 # city_recycling_programs
-This dataset consists of information from recycling programs of three cities in the U.S. 
-Test
-Test
+This repository was created for LIS545 Data Curation. The dataset consists of information extracted from the recycling and waste management data of three cities in the U.S. 
