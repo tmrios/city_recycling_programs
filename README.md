@@ -6,5 +6,6 @@ Moreover, data was enriched by adding city population data pulled from the U.S. 
 Note that this dataset reflects New York City measurements of recycling and refuse tonnage per day. While New York City measures daily counts of recycling and refuse tonnage, Providence and Franklin measure recycling and refuse tonnage annually. This is an important distinction in this dataset. 
 
 The total recycling value was manually calculated by adding metal, glass, and plastic (MPG) tonnage to paper tonnage. Organics were not included in the calculation. It is unclear what materials are included in total recycling values as reported by Providence and Franklin. This necessitates further research. 
+
 The format used to name files is: projectName_dataType_version. There are two data files in this repository: RecyclingPrograms_Raw_VS1.csv and RecyclingPrograms_Normal_VS1.csv.
 
