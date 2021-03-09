@@ -1,4 +1,4 @@
-# city_recycling_programs
+# README
 To normalize the data, rows and columns were formatted and values were edited to be consistent with one another. For example, the original Providence dataset chose the following format for the “fiscal_year” attribute: “6/30/2019 0:00.” I edited this value to “2019” to match the fiscal year values for New York City and Franklin. 
 
 Moreover, data was enriched by adding city population data pulled from the U.S. Census Bureau to contextualize and improve the reuse potential of the dataset as a whole. 
